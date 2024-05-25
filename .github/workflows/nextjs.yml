@@ -9,8 +9,7 @@ on:
   push:
     branches: ["main"]
 
-     env:
-  NODE_AUTH_TOKEN: ${{ secrets.PAGES_DEPLOYMENT }}
+   
 
 
 
